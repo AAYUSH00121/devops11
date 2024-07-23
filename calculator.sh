@@ -7,3 +7,7 @@
 
 #hello from the other side
 X=A+B
+
+#Division
+
+X=A/B
