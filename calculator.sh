@@ -11,3 +11,6 @@ X=A+B
 #Division
 
 X=A/B
+
+#Substraction
+X=A-B
