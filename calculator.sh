@@ -11,3 +11,8 @@ X=A+B
 #Division
 
 X=A/B
+
+
+#Percentage
+
+X=A*%/100
